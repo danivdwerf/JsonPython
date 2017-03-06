@@ -1,0 +1,25 @@
+{
+	"students":
+	{
+		"student1":
+		{
+			"Name": "Dani van der Werf",
+			"Class": "GD2A",
+			"Age": 17
+		},
+
+		"student2":
+		{
+			"Name": "Danilo Beumans",
+			"Class": "GD2A",
+			"Age": 19
+		},
+
+		"student3":
+		{
+			"Name": "Jonathan Kievits",
+			"Class": "GD2A",
+			"Age": 18
+		}
+	}
+}
